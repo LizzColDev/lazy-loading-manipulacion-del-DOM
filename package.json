@@ -8,8 +8,8 @@
     "install:husky": "husky install"
     
   },
-  "homepage": "https://lizzcoldev.github.io/lazy-loading-manipulacion-del-DOM/",
-  
+  "homepage": "https://lizzcoldev.github.io/lazy-loading-manipulacion-del-DOM",
+
   "devDependencies": {
     "husky": "7",
     "prettier": "^2.0.5",
